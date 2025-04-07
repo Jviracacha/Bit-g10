@@ -1,6 +1,18 @@
 
 #bit-g10
 
+ * Markup
+   * Tags
+     - Attributes
+     - Value
+     - Generics
+     * Semantics
+       - Structure
+       - Substructure
+       - Content
+ * HyperText
+   - Links
+
 - Titulo: La casa del peluche
 
 - Descrpcion: En la casa del peluche creemos que cada peluche tiene una historia por contar.
